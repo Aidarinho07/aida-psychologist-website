@@ -48,17 +48,26 @@ header nav ul li a {
 
 .hero {
     background: url('photo_2024-08-18_22-22-19.jpg') no-repeat center center/cover;
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: white;
     text-align: center;
     padding: 400px 0;
 }
 
 .hero h2 {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 48px;
     margin-bottom: 10px;
 }
 
 .hero p {
+    font-family: "Amatic SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     font-size: 24px;
     margin-bottom: 20px;
 }
