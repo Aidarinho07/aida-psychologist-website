@@ -57,7 +57,7 @@ header nav ul li a {
 }
 @media screen and (max-width: 768px) {
     .hero {
-        background: url('mobile-image.jpg') no-repeat center center;
+        background: url('mobile-image2.jpg') no-repeat center center;
         background-size: cover;
     }
 }
