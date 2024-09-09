@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background: #4CAF50;
+    background: #f0899d;
     color: white;
     padding: 3rem 0;
 }
@@ -74,7 +74,7 @@ header nav ul li a {
 
 .hero .btn {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #f0899d;
     color: white;
     text-decoration: none;
     font-size: 18px;
